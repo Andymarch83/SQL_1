@@ -1,16 +1,17 @@
 # Урок 1. Установка СУБД, подключение к БД, просмотр и создание таблиц
+
 #### https://gbcdn.mrgcdn.ru/uploads/asset/5639966/attachment/85f692d44a9595204b50c9f3a25ceb2b.pdf
 #### https://gbcdn.mrgcdn.ru/uploads/asset/4490267/attachment/c1c82cfc32e4ce9b63cd309bba9c0106.pdf
 #### https://gbcdn.mrgcdn.ru/uploads/asset/4490272/attachment/0e9e9e90f6197d1a17d4906587d1b141.pdf
-#### https://gbcdn.mrgcdn.ru/uploads/record/245971/attachment/105ea179a327e9df59d4737d09df10c6.mp4
 #### https://pollen-attempt-4ac.notion.site/SQL-9072b1ca09f94e6fa3c588804919e1ae
 #### https://pollen-attempt-4ac.notion.site/SQL-1-48c66b131571455b90b2220dfdaeaf1e
-#### ссылки на установку: https://info-comp.ru/install-mysql-on-windows-10 - Windows
-Mac: https://youtu.be/FbmjjTX0HQY
+#### ссылки на установку: https://info-comp.ru/install-mysql-on-windows-10 - Windows ; Mac: https://youtu.be/FbmjjTX0HQY
 
 #### На Мас есть проблема: последняя версия нестабильно работает(вылетает при выводе данных из таблицы). Рекомендую cкачать архивную версию: https://downloads.mysql.com/archives/workbench/ (8.0.30., к примеру)
 
 #### postgrespro https://postgrespro.ru/docs/postgresql/9.6/functions-matching
+
+#### ЛЕКЦИЯ: https://gbcdn.mrgcdn.ru/uploads/record/245971/attachment/105ea179a327e9df59d4737d09df10c6.mp4
 #### ВЕБИНАР: https://gbcdn.mrgcdn.ru/uploads/record/288618/attachment/b41f79e4b9a633d3b8cb865718eca18b.mp4
 
 
