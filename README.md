@@ -11,6 +11,7 @@ Mac: https://youtu.be/FbmjjTX0HQY
 #### На Мас есть проблема: последняя версия нестабильно работает(вылетает при выводе данных из таблицы). Рекомендую cкачать архивную версию: https://downloads.mysql.com/archives/workbench/ (8.0.30., к примеру)
 
 #### postgrespro https://postgrespro.ru/docs/postgresql/9.6/functions-matching
+#### ВЕБИНАР: https://gbcdn.mrgcdn.ru/uploads/record/288618/attachment/b41f79e4b9a633d3b8cb865718eca18b.mp4
 
 
 #### 1. Создайте таблицу с мобильными телефонами mobile_phones, используя графический интерфейс. Заполните БД данными.
